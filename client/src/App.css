@@ -1,0 +1,18 @@
+.App {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+:root {
+  --colour-yellow: #f9c74f;
+  --colour-purple: #9d4edd;
+}
+
+.bg-yellow {
+  background-color: var(--colour-yellow);
+}
+
+.bg-purple {
+  background-color: var(--colour-purple);
+}
